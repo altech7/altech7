@@ -1,5 +1,5 @@
 # 💫 About Me:
-👨‍💻 I’m Software Engineer | Flutter, React.js & Node.js <br>📭 Shoot me an email or add me on Linkedin! <br>
+👨‍💻 I’m Software Engineer working with Flutter, React.js & Node.js <br>📭 Shoot me an email or add me on Linkedin! <br>
 
 
 ## 🌐 Socials:
@@ -15,7 +15,5 @@
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=radical)
 
----
-[![](https://visitcount.itsvg.in/api?id=Altech7&icon=2&color=1)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
